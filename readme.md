@@ -18,8 +18,7 @@ Installation & Setup 🛠️
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/TinderBotAI.git
-cd TinderBotAI
+git clone https://github.com/Khalin7494/Tinder-Style-ChatBot-for-Telegram.git
 
 2. Create a virtual environment (optional but recommended)
 
